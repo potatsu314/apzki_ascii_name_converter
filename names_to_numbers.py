@@ -1,4 +1,4 @@
-from sys import argv
+# бригада 4
 
 names = ["Sukhotierin Yehor", "Spasyba Serhii", "Slynko Nazar"]
 
